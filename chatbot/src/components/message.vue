@@ -1,5 +1,5 @@
 <template>
-  <div>
+<div>
   <b-row style="padding:10px">
     <div>
       <div class="message" :class="{ 'outgoing': direction == 1, 'incoming': direction == 0 }">
@@ -16,12 +16,10 @@
 </template>
 
 <script>
-
 export default {
   name: 'Message',
-  components: {
-  },
-  props:{
+  components: {},
+  props: {
     direction: Number,
     text: String,
     time: String,
@@ -32,33 +30,36 @@ export default {
 </script>
 
 <style>
-.message{
+.message {
   border-radius: 20px;
   padding: 10px;
   max-width: 70%;
 }
-.incoming{
-  background-color:var(--gray1);
+
+.incoming {
+  background-color: var(--gray1);
   text-align: left;
   float: left;
   padding-left: 15px;
 
 }
-.outgoing{
-  background-color:var(--first);
+
+.outgoing {
+  background-color: var(--first);
   text-align: right;
   float: right;
   padding-right: 15px;
   color: white;
 }
-.message-text{
-}
-.timestamp{
+
+.message-text {}
+
+.timestamp {
   font-size: small;
   color: var(--gray2);
 }
 
-.images{
+.images {
   max-width: 280px;
 }
 </style>

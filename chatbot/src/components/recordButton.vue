@@ -1,36 +1,29 @@
 <template>
-  <div>
-    <div class="pulse h3" @mousedown="buttonDown" @mouseup="sendMessage">
-      <b-icon icon="mic"></b-icon>
-    </div>
-    <audio
-       ref="audio"
-       src="@/assets/sound/notification.mp3"
-       preload
-       id="audio"
-       muted
-     ></audio>
- </div>
+<div>
+  <div class="pulse h3" @mousedown="buttonDown" @mouseup="sendMessage">
+    <b-icon icon="mic"></b-icon>
+  </div>
+  <audio ref="audio" src="@/assets/sound/notification.mp3" preload id="audio" muted></audio>
+</div>
 </template>
 
 <script>
-
 export default {
   name: 'Button',
   data: () => ({
     start: new Date(),
   }),
-  methods:{
-    buttonDown(){
+  methods: {
+    buttonDown() {
       this.start = new Date();
     },
-    sendMessage(){
+    sendMessage() {
       let now = new Date();
       let duration = now.getTime() - this.start.getTime();
 
       document.getElementById('audio').play();
 
-      this.$emit('newMessage',duration);
+      this.$emit('newMessage', duration);
     }
   }
 }
@@ -42,7 +35,7 @@ export default {
   width: 60px;
   height: 60px;
   border-radius: 50%;
-  background:  var(--first);
+  background: var(--first);
   cursor: pointer;
   box-shadow: 0 0 0 var(--first);
 
@@ -52,6 +45,7 @@ export default {
   align-items: center;
   color: white;
 }
+
 .pulse:active {
   animation: pulse 1s infinite;
 }
@@ -62,30 +56,35 @@ export default {
 
 @-webkit-keyframes pulse {
   0% {
-    -webkit-box-shadow: 0 0 0 0 rgba(0,168,157, 0.4);
+    -webkit-box-shadow: 0 0 0 0 rgba(0, 168, 157, 0.4);
   }
+
   70% {
-      -webkit-box-shadow: 0 0 0 10px rgba(0,168,157, 0);
+    -webkit-box-shadow: 0 0 0 10px rgba(0, 168, 157, 0);
   }
+
   100% {
-      -webkit-box-shadow: 0 0 0 0 rgba(0,168,157, 0);
+    -webkit-box-shadow: 0 0 0 0 rgba(0, 168, 157, 0);
   }
 }
+
 @keyframes pulse {
   0% {
     transform: scale(1);
-    -moz-box-shadow: 0 0 0 0 rgba(0,168,157, 0.4);
-    box-shadow: 0 0 0 0 rgba(0,168,157, 0.4);
+    -moz-box-shadow: 0 0 0 0 rgba(0, 168, 157, 0.4);
+    box-shadow: 0 0 0 0 rgba(0, 168, 157, 0.4);
   }
+
   70% {
     transform: scale(1.15);
-      -moz-box-shadow: 0 0 0 10px rgba(0,168,157, 0);
-      box-shadow: 0 0 0 10px rgba(0,168,157, 0);
+    -moz-box-shadow: 0 0 0 10px rgba(0, 168, 157, 0);
+    box-shadow: 0 0 0 10px rgba(0, 168, 157, 0);
   }
+
   100% {
-      transform: scale(1);
-      -moz-box-shadow: 0 0 0 0 rgba(0,168,157, 0);
-      box-shadow: 0 0 0 0 rgba(0,168,157, 0);
+    transform: scale(1);
+    -moz-box-shadow: 0 0 0 0 rgba(0, 168, 157, 0);
+    box-shadow: 0 0 0 0 rgba(0, 168, 157, 0);
   }
 }
 </style>
