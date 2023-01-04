@@ -1,0 +1,11 @@
+:root {
+  --gray1: #dddddd;
+  --gray2: #6c757d;
+  --gray3: #343a40;
+  --first: #45d1cb;
+}
+
+.btn-first{
+  background-color: var(--first);
+  color: white;
+}

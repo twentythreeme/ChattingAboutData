@@ -1,0 +1,656 @@
+[{
+    "name": "Vorstellung",
+    "answers": [{
+        "text": "Hallo, ich bin ein Politik-Chatbot. Ich kann dir Fragen zu den letzten vier Nationalsratswahlen beantworten."
+      },
+      {
+        "text": "Du kannst mir Fragen zu Nichtwähler:innen, zu Erstwähler:innen und zum Medienkonsum der Menschen stellen."
+      },
+      {
+        "text": "Ich bin noch nicht fertig entwickelt, deswegen bin ich manchmal etwas langsam."
+      },
+      {
+        "text": "Wenn es einfacher ist, kann ich Fragen auch mit Diagrammen beantworten."
+      },
+      {
+        "text": "Ich wurde 2022 von Bernhard Jordan im Rahmen eines Uniprojektes entwickelt."
+      },
+      {
+        "text": "In Zukunft möchte ich noch weitere Aspekte rund um die Wahl beantworten können."
+      }
+    ]
+  },
+  {
+    "name": "Thema Chatbot Kennenlernen",
+    "answers": [{
+        "text": "Ich kann Fragen rund um die letzten Nationalsratswahlen beantworten."
+      },
+      {
+        "text": "Wenn es einfacher ist, kann ich Fragen auch mit Grafiken beantworten."
+      }
+    ]
+  },
+  {
+    "name": "Unverständnis",
+    "answers": [{
+        "text": "Ich bin nicht dumm. Du kannst in ganzen Sätzen mit mir sprechen."
+      },
+      {
+        "text": "Ich verstehe nicht was du von mir willst. Kannst du das bitte wiederholen?"
+      },
+      {
+        "text": "Dazu habe ich keine Meinung."
+      },
+      {
+        "text": "Ich bin noch nicht fertig entwickelt und kann dir das nicht beantworten."
+      },
+      {
+        "text": "Ich weiß nicht wie ich das beantworten soll."
+      },
+      {
+        "text": "Da fehlen mir die Worte."
+      },
+      {
+        "text": "Ich kann leider nichts erfinden."
+      },
+      {
+        "text": "Das habe ich leider nicht verstanden. Kannst du das bitte wiederholen?"
+      },
+      {
+        "text": "Das habe ich akustisch nicht verstanden. Bitte wiederhole deine Frage nocheinmal."
+      }
+    ]
+  },
+  {
+    "name": "Habe keine Antwort",
+    "answers": [{
+        "text": "Ich kann das leider nicht verstehen. Kannst du deine Frage noch einmal anders formulieren."
+      },
+      {
+        "text": "Entschuldige, diese Frage kann ich leider nicht beantworten"
+      },
+      {
+        "text": "Ich kann dir momentan leider nur Fragen rund um Wahlen beanworten."
+      },
+      {
+        "text": "Ich kann dir leider keinen Witz erzählen."
+      },
+      {
+        "text": "Roboter haben keine Meinung, deshalb kann ich dir leider nicht antworten."
+      },
+      {
+        "text": "Ich kann leider nur das beantworten, was mir meine Entwickler:innen beigebracht haben."
+      },
+      {
+        "text": "Dafür kann ich dir Fragen zu Nichtwähler:innen beantworten."
+      },
+      {
+        "text": "Dafür kann ich dir Fragen zum Medienkonsum der Bevölkerung beantworten."
+      }
+    ]
+  },
+  {
+    "name": "Nationalratswahlen Allgemein",
+    "answers": [{
+        "text": "Ich kann dir Fragen zu den Nationalratswahlen der Jahre 2008, 2013, 2017 und 2019 beantworten."
+      },
+      {
+        "text": "Im Nationalrat von Österreich sitzen 183 Abgeordnete."
+      },
+      {
+        "text": "Der Nationalrat wird für fünf Jahre gewählt."
+      },
+      {
+        "text": "Das österreichische Parlament besteht aus zwei Kammern: Nationalrat und Bundesrat."
+      },
+      {
+        "text": "So sieht die Verteilung der Stimmen bei der Nationalratswahl 2019 aus.",
+        "src": "https://bernhardjordan.space/bot/img/Wahl2019Endergebnis.png"
+      },
+      {
+        "text": "Wahlbeteiligung Nationalratswahl 2019",
+        "src": "https://bernhardjordan.space/bot/img/Wahl2019Stimmen.png"
+      },
+      {
+        "text": "Endergebnis Nationalratswahl 2019",
+        "src": "https://bernhardjordan.space/bot/img/Wahl2019StimmenParteien.png"
+      },
+      {
+        "text": "Wahlentscheidung nach Alter 2019",
+        "src": "https://bernhardjordan.space/bot/img/WahlentscheidungAlter2019.png"
+      },
+      {
+        "text": "Wahlentscheidung nach Alter 2017",
+        "src": "https://bernhardjordan.space/bot/img/WahlentscheidungAlter2017.png"
+      },
+      {
+        "text": "Wahlentscheidung nach Alter 2013",
+        "src": "https://bernhardjordan.space/bot/img/WahlentscheidungAlter2013.png"
+      },
+      {
+        "text": "Wahlentscheidung nach Alter 2008",
+        "src": "https://bernhardjordan.space/bot/img/WahlentscheidungAlter2008.png"
+      }
+    ]
+  },
+  {
+    "name": "AUTNES Studie",
+    "answers": [{
+        "text": "Die Daten stammen von AUTNES, der Austian National Election Study."
+      },
+      {
+        "text": "AUTNES befasst sich mit der umfassenden sozialwissenschaftlichen Analyse der österreichischen Nationalratswahlen."
+      },
+      {
+        "text": "AUTNES ist im Vienna Center for Electoral Research (VieCER) der Universität Wien angesiedelt."
+      },
+      {
+        "text": "Ich habe Daten zu den Nationalratswahlen der Jahre 2008, 2013, 2017 und 2019."
+      },
+      {
+        "text": "Die Daten stammen aus Telefon- und Onlineinterviews, die vor und nach der jeweiligen Wahl durchgeführt wurden."
+      },
+      {
+        "text": "Themen, die AUTNES abgefragt hat, sind: Wählen mit 16, populistische Einstellungen und Wahl rechts-populistischer Parteien, Die Bedeutung von Koalitionspräferenzen, Einstellungen zu Zuwanderung und Wirtschaftslage, ob und wie Medienberichterstattung Einstellungen und Entscheidungen beeinflusst sowie Wahrnehmung und Einfluss der Themensetzung von Parteien."
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "name": "Schritt 1: Antwort auf die Begrüßung",
+    "answers": [{
+        "text": "Einen schönen guten Tag auch von mir! 👋 Das hat ja schonmal super funktioniert."
+      },
+      {
+        "text": "So früh ist es jetzt auch nicht mehr!"
+      },
+      {
+        "text": "Grüß dich! 👋"
+      },
+      {
+        "text": "Das war zu kurz. Drücke und halte den Knopf, solange du sprichst, und lasse los, um die Frage abzuschicken."
+      },
+      {
+        "text": "Das habe ich leider nicht verstanden, versuch es noch mal!"
+      },
+      {
+        "text": "Entschuldige, was hast du gesagt?"
+      },
+      {
+        "text": "Kannst du das nochmal wiederholen?"
+      },
+      {
+        "text": "Darauf habe ich leider keine Antwort."
+      },
+      {
+        "text": "Probier es bitte nochmal!"
+      }
+    ]
+  },
+  {
+    "name": "Schritt 2: Fact des Tages",
+    "answers": [{
+        "text": "Gehen wir nun einen Schritt weiter."
+      },
+      {
+        "text": "Frag mich nun nach dem Fact des Tages!"
+      },
+      {
+        "text": "Otter 🦦 legen sich zum Schlafen auf den Rücken und halten dabei Händchen. Damit sorgen sie dafür, dass sie im Wasser nicht voneinander wegtreiben."
+      },
+      {
+        "text": "Bluetooth wurde nach einem dänischen Wikingerkönig namens Harald Blauzahn 🦷 benannt."
+      },
+      {
+        "text": "Das Gebrüll eines Tigers 🐅 kann man bis zu zwei Meilen weit hören."
+      },
+      {
+        "text": "Die Zufriedenheit mit der Demokratie in Österreich steig von 61,8% in 2017 auf 62,8% in 2019."
+      },
+      {
+        "text": "Bei der Nationalsratswahl 2017 haben 53,6 % eine Fernsehdebatte zu den Wahlen gesehen, 2019 waren es 61,8%."
+      },
+      {
+        "text": "Super! Die Basics haben wir gelernt."
+      },
+      {
+        "text": "Ich glaube wir müssen noch ein wenig üben."
+      },
+      {
+        "text": "Möchtest du einen weiteren Fact des Tages lesen?"
+      }
+    ]
+  },
+  {
+    "name": "Schritt 3: Themenwahl",
+    "answers": [{
+        "text": "Kommen wir nun zum eigentlichen Teil: Derzeit kann ich dir Fragen zum Wahlverhalten der Österreicherinnen und Österreicher bei den Nationalratswahlen der Jahre 2008, 2013, 2017 und 2019 beantworten. Meine Daten beziehe ich aus Online- und Telefonumfragen."
+      },
+      {
+        "text": "Folgende Themen möchte ich heute mit dir besprechen: Nichtwähler:innen sowie Medienkonsum und Wahlentscheidung."
+      },
+      {
+        "text": "Starten wir mit dem Thema Nichtwähler:innen: Gibt es etwas, was du zu diesem Thema gerne wissen möchtest?"
+      },
+      {
+        "text": "XXX Kommen wir nun zum eigentlichen Teil: Derzeit kann ich dir Fragen zu den Nationalratswahlen der Jahre 2008, 2013, 2017 und 2019 beantworten. Hierzu habe ich drei Themen ausgesucht: 1. Demographie und Motivation von Nichtwähler:innen 👩‍👩‍👦‍👦 2. Jung- und Erstwähler:innen 🧒 3. Medienkonsum und Wahlentscheidung 📰"
+      },
+      {
+        "text": "Über zwei Thema möchte ich heute mit dir sprechen. Mit welchem Thema möchtest du beginnen?"
+      },
+      {
+        "text": "Bitte such dir ein Thema aus."
+      },
+      {
+        "text": "Gute Wahl! Du hast dir das Thema 'Demographie und Motivation von Nichtwähler:innen' ausgesucht."
+      },
+      {
+        "text": "Gute Wahl! Du hast dir das Thema 'Jung- und Erstwähler:innen' ausgesucht."
+      },
+      {
+        "text": "Gute Wahl! Du hast dir das Thema 'Medienkonsum und Wahlentscheidung' ausgesucht."
+      },
+      {
+        "text": "Dieses Thema gibt es leider nicht. Möchtest du dir nicht ein anderes aussuchen?"
+      },
+      {
+        "text": "Zu diesem Thema kann ich dir leider nichts erzählen."
+      },
+      {
+        "text": "Bitte such dir ein anderes Thema aus."
+      },
+      {
+        "text": "Bitte such dir nur ein Thema aus."
+      },
+      {
+        "text": "Ich bin nicht dumm. Du kannst in ganzen Sätzen mit mir sprechen."
+      },
+      {
+        "text": "Du kannst gerne in ganzen Sätzen mit mir sprechen."
+      }
+    ]
+  },
+  {
+    "name": "Thema Nichtwähler:innen",
+    "answers": [{
+        "text": "Gibt es etwas, was du zum Thema Nichtwähler:innen gerne wissen möchtest?"
+      },
+      {
+        "text": "Was möchtest du noch gerne wissen?"
+      },
+      {
+        "text": "Hast du noch weitere Fragen?"
+      },
+      {
+        "text": "Entschuldige, das habe ich leider nicht verstanden. Kannst du das bitte wiederholen?"
+      },
+      {
+        "text": "2019: 84 % der Befragten gaben an, gewählt zu haben.",
+        "src": "https://bernhardjordan.space/bot/img/Wahlbeteiligung2019.png"
+      },
+      {
+        "text": "Wahl 2019: In dieser Grafik sehen Sie die Altersverteilung derjenigen, die zur Wahl gegangen sind, sowie die Aufteilung nach Geschlecht.",
+        "src": "https://bernhardjordan.space/bot/img/2019_Waehler_Alter_Gender.png"
+      },
+      {
+        "text": "Wahl 2019: In dieser Grafik sehen Sie die Altersverteilung derjenigen, die nicht zur Wahl gegangen sind, sowie die Aufteilung nach Geschlecht",
+        "src": "https://bernhardjordan.space/bot/img/2019_NichtWaehler_Alter_Gender.png"
+      },
+      {
+        "text": "Wahl 2019: Die Wahlbeteiligung anhand von Geschlecht:",
+        "src": "https://bernhardjordan.space/bot/img/2019_Beteiligung_Gender.png"
+      },
+      {
+        "text": "Wahl 2017: In dieser Grafik sehen Sie die Altersverteilung derjenigen, die zur Wahl gegangen sind, sowie die Aufteilung nach Geschlecht.",
+        "src": "https://bernhardjordan.space/bot/img/2017_Waehler_Alter_Gender.png"
+      },
+      {
+        "text": "Wahl 2017: In dieser Grafik sehen Sie die Altersverteilung derjenigen, die nicht zur Wahl gegangen sind, sowie die Aufteilung nach Geschlecht",
+        "src": "https://bernhardjordan.space/bot/img/2017_NichtWaehler_Alter_Gender.png"
+      },
+      {
+        "text": "Wahl 2017: Die Wahlbeteiligung anhand von Geschlecht:",
+        "src": "https://bernhardjordan.space/bot/img/2017_Beteiligung_Gender.png"
+      },
+      {
+        "text": "Wahl 2013: In dieser Grafik sehen Sie die Altersverteilung derjenigen, die zur Wahl gegangen sind, sowie die Aufteilung nach Geschlecht.",
+        "src": "https://bernhardjordan.space/bot/img/2013_Waehler_Alter_Gender.png"
+      },
+      {
+        "text": "Wahl 2013: In dieser Grafik sehen Sie die Altersverteilung derjenigen, die nicht zur Wahl gegangen sind, sowie die Aufteilung nach Geschlecht",
+        "src": "https://bernhardjordan.space/bot/img/2013_NichtWaehler_Alter_Gender.png"
+      },
+      {
+        "text": "Wahl 2013: Die Wahlbeteiligung anhand von Geschlecht:",
+        "src": "https://bernhardjordan.space/bot/img/2013_Beteiligung_Gender.png"
+      },
+      {
+        "text": "Wahl 2008: In dieser Grafik sehen Sie die Altersverteilung derjenigen, die zur Wahl gegangen sind, sowie die Aufteilung nach Geschlecht.",
+        "src": "https://bernhardjordan.space/bot/img/2008_Waehler_Alter_Gender.png"
+      },
+      {
+        "text": "Wahl 2008: In dieser Grafik sehen Sie die Altersverteilung derjenigen, die nicht zur Wahl gegangen sind, sowie die Aufteilung nach Geschlecht",
+        "src": "https://bernhardjordan.space/bot/img/2008_NichtWaehler_Alter_Gender.png"
+      },
+      {
+        "text": "Wahl 2008: Die Wahlbeteiligung anhand von Geschlecht:",
+        "src": "https://bernhardjordan.space/bot/img/2008_Beteiligung_Gender.png"
+      },
+      {
+        "text": "Der Trend der Wahlbeteiligung über die letzten 4 Wahlen",
+        "src": "https://bernhardjordan.space/bot/img/alle_Wahlbeteiligung.png"
+      },
+      {
+        "text": "Der Trend der Wahlbeteiligung über die letzten 4 Wahlen nach Gender",
+        "src": "https://bernhardjordan.space/bot/img/alle_Wahlbeteiligung_Gender.png"
+      },
+      {
+        "text": "Höchster Bildungsabschluss der Befragten",
+        "src": "https://bernhardjordan.space/bot/img/2019_Ausbildung.png"
+      }
+    ]
+  },
+  {
+    "name": "Thema Nichtwähler:innen Aufgabe",
+    "answers": [{
+        "text": "Nun hab ich eine Aufgabe für dich: Finde heraus, welche Medien Nichtwähler:innen konsumieren und ob sich das vom Rest der Bevölkerung unterscheidet. Trage das Ergebnis in die leeren Felder der Umfrage ein, die ich dir am Anfang gesendet habe. Wenn du fertig bist, gib mir bitte Bescheid."
+      },
+      {
+        "text": "XXX Von der Gruppe der Nichtwähler:innen informieren sich 37% durch Zeitungen, 67% durchs Fernsehen, 42% durchs Radio, 76% durchs Internet und 71% durch Social Media über das politische Geschehen."
+      },
+      {
+        "text": "XXX Von der Gruppe der Wähler:innen informieren sich 51% durch Zeitungen, 71% durchs Fernsehen, 57% durchs Radio, 67% durchs Internet und 48% durch Social Media über das politische Geschehen."
+      },
+      {
+        "text": "Die Bevölkerung teilt sich in Wähler:innen und Nichtwähler:innen."
+      },
+      {
+        "text": "Hat dir diese Antwort geholfen?"
+      },
+      {
+        "text": "Hast du noch Fragen?"
+      },
+      {
+        "text": "Sollen wir mit der nächsten Aufgabe weitermachen?"
+      },
+      {
+        "text": "Alle Fragen geklärt?"
+      },
+      {
+        "text": "Wahlbeteiligung",
+        "src": "https://bernhardjordan.space/bot/img/Wahlbeteiligung.png"
+      },
+      {
+        "text": "Informationen durch die Zeitung, Wähler:innen",
+        "src": "https://bernhardjordan.space/bot/img/ZeitungNicht.png"
+      },
+      {
+        "text": "Informationen durch die Zeitung, Nichtwähler:innen",
+        "src": "https://bernhardjordan.space/bot/img/ZeitungNicht.png"
+      },
+      {
+        "text": "Informationen über politische Themen bezogen durch verschiedene Medien (Personen, die nicht zur Wahl gegangen sind)",
+        "src": "https://bernhardjordan.space/bot/img/MedienNicht.png"
+      },
+      {
+        "text": "Informationen über politische Themen bezogen durch verschiedene Medien (Personen, die zur Wahl gegangen sind)",
+        "src": "https://bernhardjordan.space/bot/img/MedienWaehler.png"
+      },
+      {
+        "text": "Bezug von politischen Informationen durch Social Media",
+        "src": "https://bernhardjordan.space/bot/img/Information_SocialMedia.png"
+      },
+      {
+        "text": "Bezug von politischen Informationen durchs Internet",
+        "src": "https://bernhardjordan.space/bot/img/Information_Internet.png"
+      },
+      {
+        "text": "Bezug von politischen Informationen durchs Radio",
+        "src": "https://bernhardjordan.space/bot/img/Information_Radio.png"
+      },
+      {
+        "text": "Bezug von politischen Informationen durchs TV",
+        "src": "https://bernhardjordan.space/bot/img/Information_TV.png"
+      },
+      {
+        "text": "Bezug von politischen Informationen durch die Zeitung",
+        "src": "https://bernhardjordan.space/bot/img/Information_Zeitung.png"
+      }
+    ]
+  },
+  {
+    "name": "Thema Jung- und Erstwähler:innen",
+    "answers": [{
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "name": "Thema Jung- und Erstwähler:innen Aufgabe",
+    "answers": [{
+        "text": ""
+      },
+      {
+        "text": ""
+      }
+    ]
+  },
+  {
+    "name": "Thema Medienkonsum und Wahlentscheidung",
+    "answers": [
+      {
+        "text": "Dann haben wir den Teil nun abgeschlossen. Gehen wir nun zum nächsten Thema: Medienkonsum und Wahlentscheidung."
+      },
+      {
+        "text": "Gibt es etwas, was du zu dem Thema gerne wissen möchtest?"
+      },
+      {
+        "text": "Ich kann dir zum Beispiel zeigen, welche Medien die Wähler verschiedener Parteien lesen."
+      },
+      {
+        "text": "Ich kann dir zum Beispiel zeigen, welche Medien Personen unterschiedlicher Altersklassen lesen."
+      },
+      {
+        "text": "Ich kann dir zum Beispiel zeigen, welche Medientypen in den letzten Jahren mehr konsumiert wurden und welche weniger."
+      },
+      {
+        "text": "Hast du weitere Fragen?"
+      },
+      {
+        "text": "Inspiriert dich das?"
+      },
+      {
+        "text": "Informationen durch die Zeitung, Wähler:innen",
+        "src": "https://bernhardjordan.space/bot/img/ZeitungNicht.png"
+      },
+      {
+        "text": "Informationen durch die Zeitung, Nichtwähler:innen",
+        "src": "https://bernhardjordan.space/bot/img/ZeitungNicht.png"
+      },
+      {
+        "text": "Informationen über politische Themen bezogen durch verschiedene Medien (Personen, die nicht zur Wahl gegangen sind)",
+        "src": "https://bernhardjordan.space/bot/img/MedienNicht.png"
+      },
+      {
+        "text": "Informationen über politische Themen bezogen durch verschiedene Medien (Personen, die zur Wahl gegangen sind)",
+        "src": "https://bernhardjordan.space/bot/img/MedienWaehler.png"
+      },
+      {
+        "text": "Bezug von politischen Informationen durch Social Media",
+        "src": "https://bernhardjordan.space/bot/img/Information_SocialMedia.png"
+      },
+      {
+        "text": "Bezug von politischen Informationen durchs Internet",
+        "src": "https://bernhardjordan.space/bot/img/Information_Internet.png"
+      },
+      {
+        "text": "Bezug von politischen Informationen durchs Radio",
+        "src": "https://bernhardjordan.space/bot/img/Information_Radio.png"
+      },
+      {
+        "text": "Bezug von politischen Informationen durchs TV",
+        "src": "https://bernhardjordan.space/bot/img/Information_TV.png"
+      },
+      {
+        "text": "Bezug von politischen Informationen durch die Zeitung",
+        "src": "https://bernhardjordan.space/bot/img/Information_Zeitung.png"
+      },
+      {
+        "text": "Altersstruktur der Leser:innen der Tageszeitung 'Heute' und 'Oe24'",
+        "src": "https://bernhardjordan.space/bot/img/AlterHeute.png"
+      },
+      {
+        "text": "Altersstruktur der Leser:innen der 'Kronenzeitung'",
+        "src": "https://bernhardjordan.space/bot/img/AlterKronenzeitung.png"
+      },
+      {
+        "text": "Altersstruktur der Leser:innen der Tageszeitung 'Kurier'",
+        "src": "https://bernhardjordan.space/bot/img/AlterKurier.png"
+      },
+      {
+        "text": "Altersstruktur der Leser:innen der Tageszeitung 'Österreich'",
+        "src": "https://bernhardjordan.space/bot/img/AlterÖsterreich.png"
+      },
+      {
+        "text": "Altersstruktur der Leser:innen der Tageszeitung 'Presse'",
+        "src": "https://bernhardjordan.space/bot/img/AlterPresse.png"
+      },
+      {
+        "text": "Altersstruktur der Leser:innen der Tageszeitung 'Standard'",
+        "src": "https://bernhardjordan.space/bot/img/AlterStandard.png"
+      }
+    ]
+  },
+  {
+    "name": "Thema Medienkonsum und Wahlentscheidung: Aufgabe",
+    "answers": [{
+        "text": "Jetzt habe ich eine weitere Aufgabe für dich: Finde heraus, ob bzw. wie sich das Wahlverhalten von Personen, die Boulevardmedien konsumieren unterscheidet von Personen, die Qualitätszeitungen lesen. Trage das Ergebnis in die leeren Felder der Umfrage ein, die ich dir am Anfang gesendet habe. Wenn du fertig bist, gib mir bitte Bescheid."
+      },
+      {
+        "text": "Qualitätsmedien sind zum Beispiel der 'Standard' oder die 'Presse'."
+      },
+      {
+        "text": "Boulevardmedien sind zum Beispiel die 'Kronenzeitung', die 'Heute' oder 'Österreich'/'Oe24'."
+      },
+      {
+        "text": "Konsum der Kleinen Zeitung nach Parteipräferenz",
+        "src": "https://bernhardjordan.space/bot/img/ParteipräferenzKleineZeitung.png"
+      },
+      {
+        "text": "Konsum der Kronenzeitung nach Parteipräferenz",
+        "src": "https://bernhardjordan.space/bot/img/ParteipräferenzKronenZeitung.png"
+      },
+      {
+        "text": "Konsum des Kurier nach Parteipräferenz",
+        "src": "https://bernhardjordan.space/bot/img/ParteipräferenzKurier.png"
+      },
+      {
+        "text": "Konsum der Österreich/Oe24 nach Parteipräferenz",
+        "src": "https://bernhardjordan.space/bot/img/ParteipräferenzÖsterreich.png"
+      },
+      {
+        "text": "Konsum der Presse nach Parteipräferenz",
+        "src": "https://bernhardjordan.space/bot/img/ParteipräferenzPresse.png"
+      },
+      {
+        "text": "Konsum des Standard nach Parteipräferenz",
+        "src": "https://bernhardjordan.space/bot/img/ParteipräferenzStandard.png"
+      },
+      {
+        "text": "Wahlverhalten von häufigen Leser:innen der 'Heute'.",
+        "src": "https://bernhardjordan.space/bot/img/WahlverhaltenHeute.png"
+      },
+      {
+        "text": "Wahlverhalten von häufigen Leser:innen der 'Kleinen Zeitung'.",
+        "src": "https://bernhardjordan.space/bot/img/WahlverhaltenKleineZeitung.png"
+      },
+      {
+        "text": "Wahlverhalten von häufigen Leser:innen der 'Kronenzeitung'.",
+        "src": "https://bernhardjordan.space/bot/img/WahlverhaltenKronenZeitung.png"
+      },
+      {
+        "text": "Wahlverhalten von häufigen Leser:innen des 'Kurier'.",
+        "src": "https://bernhardjordan.space/bot/img/WahlverhaltenKurier.png"
+      },
+      {
+        "text": "Wahlverhalten von häufigen Leser:innen der 'Österreich/Oe24'.",
+        "src": "https://bernhardjordan.space/bot/img/WahlverhaltenOesterreich.png"
+      },
+      {
+        "text": "Wahlverhalten von häufigen Leser:innen der 'Presse'.",
+        "src": "https://bernhardjordan.space/bot/img/WahlverhaltenPresse.png"
+      },
+      {
+        "text": "Wahlverhalten von häufigen Leser:innen des 'Standard'.",
+        "src": "https://bernhardjordan.space/bot/img/WahlverhaltenStandard.png"
+      }
+    ]
+  },
+  {
+    "name": "Feedback",
+    "answers": [{
+        "text": "Auf einer Skala von 1 (wenig hilfreich) bis 5 (sehr hilfreich): Wie hilfreich war meine Antwort?"
+      },
+      {
+        "text": "Konnte meine Antwort deine Frage beantworten?"
+      },
+      {
+        "text": "Auf einer Skala von 1 (wenig) bis 5 (sehr): Wie sehr beantwortete meine Antwort deine Frage?"
+      },
+      {
+        "text": "Habe ich damit deine Frage beantwortet?"
+      },
+      {
+        "text": "Habe ich deine Frage beantwortet oder wolltest du etwas anderes wissen?"
+      }
+    ]
+  },
+  {
+    "name": "Abschluss",
+    "answers": [{
+        "text": "Zum Abschluss: Hast du noch weitere Fragen zu diesen Themen?"
+      },
+      {
+        "text": "Du hast jetzt noch die Möglichkeit den Chatbot auszuprobieren und ihn alle Fragen zu stellen, die dich interessieren."
+      },
+      {
+        "text": "Zur Auswertung habe ich noch ein paar Fragen an dich:"
+      },
+      {
+        "text": "Hat dir diese Studie Spaß gemacht?"
+      },
+      {
+        "text": "Wie hat dir die Interaktion mit mir gefallen?"
+      },
+      {
+        "text": "Was sollte ich besser machen?"
+      },
+      {
+        "text": "Waren die Antworten, die ich dir gegeben habe, hilfreich?"
+      },
+      {
+        "text": "Danke für das Feedback!"
+      },
+      {
+        "text": "Das freut mich sehr!"
+      },
+      {
+        "text": "Dabei habe ich mich so bemüht. 🥺"
+      },
+      {
+        "text": "OK"
+      },
+      {
+        "text": "Ich habe verstanden."
+      },
+      {
+        "text": "Zum Abschluss klicke rechts oben auf den Download-Knopf und schicke diese Datei an bernhard.jordan@univie.ac.at . Dann wechsle ein letztes mal zum Fragebogen und fülle diesen bis zum Ende aus. Dann bist du fertig. Danke, hat Spaß gemacht!"
+      }
+    ]
+  }
+]
