@@ -37,4 +37,7 @@ BootstrapVue
 *Faculty of Computer Science*  
 *University of Vienna*  
 
-For questions please contact: bernhard.jordan@univie.ac.at
+For questions please contact: 
+bernhard.jordan [at] univie.ac.at
+laura.koesten [at] univie.ac.at
+torsten.moeller [at] univie.ac.at
